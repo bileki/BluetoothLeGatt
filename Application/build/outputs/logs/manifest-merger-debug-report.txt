@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:1-52:12
+	package
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:36:22-76
+application
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:38:5-50:19
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\dda71c528a8a2bbf5d9d9fd5aceca467ee9a2651\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\64a0f1ee82c8132b0a0d6e3db905d74f1ff21842\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\95a13ed752288a667fa636b76f5b8737a9488581\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\b14060492c262e904baf624b2a7e4dad1150e926\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\8ceeaf98dae9f19584ac03c3cd631605386960c6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\f734936f54add8d6a44ea03785d91f115ef90cce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\9b6b4a024cd5a207896f1bf0fec5b444466fc316\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\425c98e566ac5969570b1bf08f0590e82d277904\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\b1ae72c6958fbeeb67d0ddd17e6da55edeb29caf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\c750b9ac6f9fc3bd9e8f36b514cc6a4716e768ca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\ca4990623d35507d07d26e700ba4222cd903a49b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:38:18-50
+	android:icon
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:40:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:41:9-47:20
+	android:label
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:41:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:45:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:48:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:9-77
+	android:enabled
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:53-75
+	android:name
+		ADDED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:18-52
+uses-sdk
+INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\dda71c528a8a2bbf5d9d9fd5aceca467ee9a2651\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\64a0f1ee82c8132b0a0d6e3db905d74f1ff21842\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\95a13ed752288a667fa636b76f5b8737a9488581\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\b14060492c262e904baf624b2a7e4dad1150e926\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\8ceeaf98dae9f19584ac03c3cd631605386960c6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\f734936f54add8d6a44ea03785d91f115ef90cce\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\9b6b4a024cd5a207896f1bf0fec5b444466fc316\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\425c98e566ac5969570b1bf08f0590e82d277904\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\b1ae72c6958fbeeb67d0ddd17e6da55edeb29caf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\c750b9ac6f9fc3bd9e8f36b514cc6a4716e768ca\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\ca4990623d35507d07d26e700ba4222cd903a49b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\dda71c528a8a2bbf5d9d9fd5aceca467ee9a2651\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Projects\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\dda71c528a8a2bbf5d9d9fd5aceca467ee9a2651\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\64a0f1ee82c8132b0a0d6e3db905d74f1ff21842\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\95a13ed752288a667fa636b76f5b8737a9488581\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\b14060492c262e904baf624b2a7e4dad1150e926\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\8ceeaf98dae9f19584ac03c3cd631605386960c6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\f734936f54add8d6a44ea03785d91f115ef90cce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\9b6b4a024cd5a207896f1bf0fec5b444466fc316\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\425c98e566ac5969570b1bf08f0590e82d277904\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\b1ae72c6958fbeeb67d0ddd17e6da55edeb29caf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\c750b9ac6f9fc3bd9e8f36b514cc6a4716e768ca\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\ca4990623d35507d07d26e700ba4222cd903a49b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\dda71c528a8a2bbf5d9d9fd5aceca467ee9a2651\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Guilherme Bileki\.android\build-cache\dda71c528a8a2bbf5d9d9fd5aceca467ee9a2651\output\AndroidManifest.xml:26:9-47

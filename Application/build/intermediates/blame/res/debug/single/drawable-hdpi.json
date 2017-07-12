@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\Projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Android\\Projects\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\Projects\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "C:\\Android\\Projects\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    }
+]
