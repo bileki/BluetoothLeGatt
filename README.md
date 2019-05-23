@@ -2,6 +2,7 @@ BluetoothLeGatt com HM10
 -------
 
 Modificação de um exemplo do Google para comunicação com o módulo Bluetooth HM-10.
+Todas as modificações estão explicadas por passos no código fonte com a tag TODO: <número do passo>.
 
 https://github.com/googlesamples/android-BluetoothLeGatt
 
